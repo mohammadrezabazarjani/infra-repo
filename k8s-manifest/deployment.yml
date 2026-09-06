@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: python-app
-          image: mohammadrezabazarjani/python-app:v2
+          image: mohammadrezabazarjani/python-app:3ab3630374ebd33469a7121f82bb9765983404d5
           ports:
             - containerPort: 5000
